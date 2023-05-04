@@ -1,0 +1,27 @@
+All Reads: 1282526
+Equivalence classes mapped to: 15402
+Equivalence class sizes:
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  0.000   1.000   2.000   3.883   5.000  59.000 
+Equivalence class occurances:
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+    1.00     2.00     8.00    83.27    38.00 29881.00 
+----------------------------------------------------------------
+Correct Reads: 883941
+Equivalence classes mapped to: 11506
+Equivalence class sizes:
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  1.000   1.000   3.000   4.548   6.000  54.000 
+Equivalence class occurances:
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+    1.00     2.00     7.00    76.82    30.00 29881.00 
+----------------------------------------------------------------
+Incorrect Reads: 398585
+Equivalence classes mapped to: 7336
+Equivalence class sizes:
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  0.000   1.000   1.000   1.672   2.000  59.000 
+Equivalence class occurances:
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+    1.00     2.00     6.00    54.33    28.00 19570.00 
+----------------------------------------------------------------
